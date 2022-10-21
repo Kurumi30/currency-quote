@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "name": "moeda",
+  "version": "1.0.0",
+  "description": "Cotação de moedas usando nodejs",
+  "main": "moeda.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node moeda.js"
+  },
+  "keywords": [
+    "Javascript",
+    "NodeJs",
+    "API",
+    "Moeda"
+  ],
+  "author": "Fernando Zhu",
+  "license": "MIT"
+}
